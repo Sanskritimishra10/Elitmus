@@ -1,0 +1,30 @@
+For this assignment, I propose the design of a puzzle called "The Hidden Code" that aims to assess the following soft skills:
+
+Attention to detail
+Perseverance
+Problem-solving
+Creativity
+The Hidden Code is an interactive puzzle that will be hosted on a website, and it will consist of several clues hidden across different web pages. Each clue will contain a riddle, a puzzle, or a challenge that users need to solve to find the next clue. The final clue will lead users to the treasure, which is a digital certificate acknowledging their completion of the puzzle.
+
+The puzzle will start with a landing page that introduces the user to the game and provides instructions on how to play. The landing page will also contain a button that will take the user to the first clue.
+
+Clue 1: Attention to detail
+The first clue will be a riddle hidden on the landing page. The riddle will provide hints about where to find the next clue. However, the answer to the riddle will also be hidden on the same page, and users will need to pay close attention to the details on the page to find it. Once they find the answer, they will be directed to the next clue.
+
+Clue 2: Perseverance
+The second clue will be a game that users need to complete to get the next clue. The game will be a challenging maze where users need to navigate through several levels to reach the end. Each level will get progressively harder, requiring more perseverance and patience to complete. Once users complete the game, they will be directed to the next clue.
+
+Clue 3: Problem-solving
+The third clue will be a puzzle that requires users to use their problem-solving skills. The puzzle will be a series of jumbled letters that users need to unscramble to form a word. The word will provide a clue about where to find the next clue. Once users unscramble the word, they will be directed to the next clue.
+
+Clue 4: Creativity
+The fourth clue will be a creative challenge that requires users to think outside the box. Users will be asked to create a piece of digital art using a provided set of tools. The art piece will need to incorporate a specific theme related to the puzzle. Once users complete the challenge, they will be directed to the final clue.
+
+Final Clue: The Treasure
+The final clue will be a link that leads users to a hidden web page where they will find the treasure, which is a digital certificate acknowledging their completion of the puzzle. Users will need to enter a code they collected from the previous clues to access the hidden web page.
+
+To ensure that users do not give up on the puzzle, there will be a hint button available on each clue that provides a hint about how to solve the puzzle. However, users will need to use one of their "lives" to use the hint button, and they will have a limited number of lives. This limitation will encourage users to think creatively and persevere in solving the puzzle.
+
+To make the puzzle more engaging, there will be a leaderboard on the website where users can see the top 10 fastest completion times. Users will also have the option to share their completion time on social media, encouraging their friends to try the puzzle as well.
+
+In conclusion, The Hidden Code puzzle is an interactive and engaging way to assess soft skills such as attention to detail, perseverance, problem-solving, and creativity. By incorporating different types of challenges and puzzles, users will need to use a variety of skills to complete the puzzle successfully.
